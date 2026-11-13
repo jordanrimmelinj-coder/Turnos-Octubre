@@ -8,7 +8,7 @@
 const CONFIG = {
   // Nombre del archivo Excel que debe estar en la misma carpeta
   // que index.html. Cambia esto si tu archivo tiene otro nombre.
-  excelFile: 'horarios.xlsx',
+  excelFile: 'Horarios_Noviembre_2026.xlsx',
 };
 
 // Indexado por Date#getDay() (0=Domingo)
